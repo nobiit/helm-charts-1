@@ -3,16 +3,6 @@ entries:
   mailu:
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T08:30:41.426330243Z"
-    description: Mailu mail system
-    digest: dace768f4ec3501930de08433554411bffc1993c6b007c80db9b89f15dd98c0d
-    icon: https://mailu.io/master/_images/logo.png
-    name: mailu
-    urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.3.tgz
-    version: 0.3.3
-  - apiVersion: v1
-    appVersion: "1.9"
     created: "2022-05-31T08:30:41.423891216Z"
     description: Mailu mail system
     digest: d402776c58e9d787ec7543f4f0ecad20d87be4caefd4fb3d5b74958bfa22c347
