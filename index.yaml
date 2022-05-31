@@ -3,207 +3,207 @@ entries:
   mailu:
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T07:55:34.744250479Z"
+    created: "2022-05-31T07:56:01.019422185Z"
     description: Mailu mail system
-    digest: dfc3e1679e8b3a8c30af95c420a63dd8d552167c909561abe38fbd92c2b1a256
+    digest: d402776c58e9d787ec7543f4f0ecad20d87be4caefd4fb3d5b74958bfa22c347
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.2.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T07:55:34.741879348Z"
+    created: "2022-05-31T07:56:01.017112452Z"
     description: Mailu mail system
     digest: 0b1f254ec066dcf076e34bc8309377aac3f9f90e9f839e6ef327c441edf57ecd
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.2+2.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.3.2+2.tgz
     version: 0.3.2+2
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T07:55:34.737874295Z"
+    created: "2022-05-31T07:56:01.014683417Z"
     description: Mailu mail system
     digest: 33081be81c6bcbc34090332c286d5efb19ab79d39dd1d73ec5ab1b054adddc7f
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.2+1.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.3.2+1.tgz
     version: 0.3.2+1
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T07:55:34.735573864Z"
+    created: "2022-05-31T07:56:01.011484271Z"
     description: Mailu mail system
     digest: e4ce88b91ee8beda1de84ca2b8a957b7802fc3116f6ea8881e2eb0b107a894eb
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.1.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     appVersion: "1.9"
-    created: "2022-05-31T07:55:34.733292234Z"
+    created: "2022-05-31T07:56:01.009202439Z"
     description: Mailu mail system
     digest: 2fed91abcce97a5cd19d2ff18882490f727f04dc7ea8b74baa76afce5ddd08c1
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.3.0.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.730921703Z"
+    created: "2022-05-31T07:56:01.006820505Z"
     description: Mailu mail system
     digest: ba7b4be3574799c8061b5ad46a8ab8ad1137b996c1688790f609ac497620d4c9
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.2.0.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.728642972Z"
+    created: "2022-05-31T07:56:01.004501171Z"
     description: Mailu mail system
     digest: e59f653a44b3158e584f54cc4152e316aacd3103cbade37151145345185295ae
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.6.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.726420443Z"
+    created: "2022-05-31T07:56:01.001903534Z"
     description: Mailu mail system
     digest: 5cb37eaf0e7c4283bfe5a11e92b2151604a374f6b193c143307a6f93c375d508
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.5.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.723620506Z"
+    created: "2022-05-31T07:56:00.999319097Z"
     description: Mailu mail system
     digest: 06cc88fedcc8d1aa03b5c16d85035d49264e7b9dd847b4a31fa707425ddcc3b3
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.4.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.722377189Z"
+    created: "2022-05-31T07:56:00.998053779Z"
     description: Mailu mail system
     digest: 261b540b9fed7a87a33954981b0bf917c5ca1bb550ea7ca19fb26d522f19b5cf
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.3.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.721143773Z"
+    created: "2022-05-31T07:56:00.996804161Z"
     description: Mailu mail system
     digest: a7a511cb0207081375bf1b71d474beb373478eeee042dd8fb6529af6e0e6498e
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.2.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.719900456Z"
+    created: "2022-05-31T07:56:00.995519743Z"
     description: Mailu mail system
     digest: 19a206efdb1f27518a7a36cbba845ff34fb92ffa9b363b2397cd8615b5fca454
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.1.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.718732241Z"
+    created: "2022-05-31T07:56:00.994299325Z"
     description: Mailu mail system
     digest: 2886caf2f11ce4dff4b2dd2f6da50236db3dea247f224fa736e256db595731e2
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.1.0.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.717546825Z"
+    created: "2022-05-31T07:56:00.993080308Z"
     description: Mailu mail system
     digest: 0bf6427a9e61a9b042be9a9729e1d005b3305ced52506b75d228b4fc62a8fee9
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.8.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.8.tgz
     version: 0.0.8
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.71641891Z"
+    created: "2022-05-31T07:56:00.991900891Z"
     description: Mailu mail system
     digest: 3a8d9fea5aaf3d5c1cca9c9c9c409a68243fb673c035ba91e587eedbef48e334
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.7.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.715247495Z"
+    created: "2022-05-31T07:56:00.990716974Z"
     description: Mailu mail system
     digest: 399491482f1f3a77d1f22b946c68eca6b63498e474ef3d22873b70c56542e339
     icon: https://mailu.io/master/_images/logo.png
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.6.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.713729175Z"
+    created: "2022-05-31T07:56:00.989245053Z"
     description: Mailu mail system
     digest: f8297664c0dd7f10e46373922058800c14d2726e8aeecbf6bcdd67935f8678e1
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.5.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.711631047Z"
+    created: "2022-05-31T07:56:00.987223024Z"
     description: Mailu mail system
     digest: b116b48b161f46f9f836769c6100958db95e65d173f52a1a152d1c2276dcd3a9
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.4.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.710697434Z"
+    created: "2022-05-31T07:56:00.986318111Z"
     description: Mailu mail system
     digest: 9f4a4ffc80d94f3c49b2e0a80c7cc3a98d3944cb9b118d6638b701eab10eadad
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.3.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.709775522Z"
+    created: "2022-05-31T07:56:00.985388997Z"
     description: Mailu mail system
     digest: 2c6e3733a5aa899cfb34b583b4d11df0afd919970c1f0c49cecdb9e53aead43c
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.2.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
     appVersion: "1.8"
-    created: "2022-05-31T07:55:34.70887771Z"
+    created: "2022-05-31T07:56:00.984442984Z"
     description: Mailu mail system
     digest: b445932d76377ec97a033be84d24e45d8234b751d219f8bf9db485d84697b757
     name: mailu
     urls:
-    - https://nobiit.github.io/helm-charts-1/mailu-0.0.1.tgz
+    - https://mailu.github.io/helm-charts/mailu-0.0.1.tgz
     version: 0.0.1
-generated: "2022-05-31T07:55:34.708065599Z"
+generated: "2022-05-31T07:56:00.983602972Z"
