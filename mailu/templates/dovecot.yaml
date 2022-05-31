@@ -121,7 +121,7 @@ spec:
             command:
               - sh
               - -c
-              - 'echo QUIT|nc localhost 110|grep "Dovecot ready."'
+              - 'echo QUIT | nc localhost 110 | grep "POP3 ready"'
           periodSeconds:  {{ default 10 .Values.dovecot.startupProbe.periodSeconds }} 
           failureThreshold: {{ default 30 .Values.dovecot.startupProbe.failureThreshold }} 
           timeoutSeconds: {{ default 5 .Values.dovecot.startupProbe.timeoutSeconds }} 
