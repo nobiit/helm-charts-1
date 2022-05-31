@@ -366,18 +366,6 @@ rspamd:
     limits:
       memory: 200Mi
       cpu: 200m
-  startupProbe: # give it 15 minutes for initial rule compilation
-    periodSeconds: 10
-    failureThreshold: 90
-    timeoutSeconds: 5
-  livenessProbe:
-    periodSeconds: 10
-    failureThreshold: 3
-    timeoutSeconds: 5
-  readinessProbe:
-    periodSeconds: 10
-    failureThreshold: 1
-    timeoutSeconds: 5
 
 clamav:
   enabled: true
